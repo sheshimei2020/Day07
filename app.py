@@ -1,0 +1,4 @@
+#导入os模块
+import os
+# 定义全局变量BASE_DIR,通过BASE_DIR定位到项目根目录
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))

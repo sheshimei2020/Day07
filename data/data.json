@@ -1,0 +1,26 @@
+{
+  "data01": {
+    "username": "13100006681",
+    "password": "51947522 8fe35ad067744465c42a19b2",
+    "http_code": 200,
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功"
+  },
+"data02":{
+  "username": "13100006682",
+  "password": "51947522 8fe35ad067744465c42a19b2",
+  "http_code": 200,
+  "status": 1,
+  "reg_msg": "注册成功",
+  "login_msg": "登陆成功"
+ },
+"data03":{
+  "username": "13100006683",
+  "password": "51947522 8fe35ad067744465c42a19b2",
+  "http_code": 200,
+  "status": 1,
+  "reg_msg": "注册成功",
+  "login_msg": "登陆成功"
+ }
+}
